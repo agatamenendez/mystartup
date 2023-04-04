@@ -1,0 +1,59 @@
+
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/container.css");
+
+
+body{
+  font-family:'Geneva', serif;
+  font-size: 18px;
+  margin: 50px;
+}
+
+main{
+  background-color: #005ef4;
+  }
+
+
+h1,h2{
+  text-decoration: underline ;
+  color: #f5f3ef;
+  font-family: 'Geneva', sans-serif;
+  font-weight: bold;
+}
+
+
+h3{
+  font-size: 16px;
+  color: #f5f3ef;
+  font-family: 'Geneva', sans-serif;
+  font-weight: bold;
+}
+
+a{
+  text-decoration: none;
+}
+
+img{
+  width: auto;
+  height: auto;
+}
+
+footer{
+  padding: 8px;
+  font-size: 14px;
+  color: #005ef4;
+  background-color: #f5f3ef;
+}
+
+li i{
+  padding: 6px;
+  color: #f5f3ef;
+}
+
+i{
+  color: white;
+}
